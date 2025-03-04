@@ -1,8 +1,7 @@
 # Alex Pires Ferreira  
 
 **Brasileiro, casado, 38 anos**  
-Rua Lourival de Almeida, número 840  
-Jd. Fernanda – Campinas – SP  
+**Campinas – SP**  
 ✉️ alex.infor@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/especialistaemrede-alexpiresferreira/)  
 
