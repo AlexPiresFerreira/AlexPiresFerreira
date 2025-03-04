@@ -3,7 +3,7 @@
 **Brasileiro, casado, 38 anos**  
 Rua Lourival de Almeida, número 840  
 Jd. Fernanda – Campinas – SP  
-📞 19 9 9100-9498 | ✉️ alex.infor@hotmail.com  
+✉️ alex.infor@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/especialistaemrede-alexpiresferreira/)  
 
 ---
@@ -17,7 +17,7 @@ Jd. Fernanda – Campinas – SP
 ## 🏅 Certificações  
 
 - **CCNP Enterprise** - ID CSCO12333607  
-- **NSE 1, NSE 2, NSE4** - Código da credencial: 8AfjzylR4T  
+- **FCP - FortiGate Administrator v6.4 | FCP - FortiManager Adminidtrator v7.0 | FCSS - Enterprise Firewall Administrator v7.0** - Código da credencial: 8AfjzylR4T  
 - **CCNA Routing and Switching** - ID CSCO12333607  
 - **ITIL® V3 Foundation** - Information Technology Infrastructure Library V3 Foundation  
 - **Ubiquiti** - UNS e UEWA  
@@ -94,7 +94,3 @@ Jd. Fernanda – Campinas – SP
 - Troubleshooting em **OSPF, BGP, IPsec, túnel GRE, VPN**  
 - Monitoramento com **CA Technologies (Ehealth, Spectrum, NFA, Performance Center), NAGIOS**  
 - Desenvolvimento do **Sistema SICMP – Monitoramento Preditivo**  
-
----
-
-📌 *Disponível para novas oportunidades na área de redes e segurança!* 🚀
